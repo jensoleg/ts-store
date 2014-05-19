@@ -1,0 +1,11 @@
+{
+  "name": "ts-store",
+  "version": "0.0.1",
+  "description": "time store api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jens-Ole Graulund <jensole@graulund.net>",
+  "license": "ISC"
+}
