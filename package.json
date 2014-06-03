@@ -1,7 +1,7 @@
 {
   "name": "ts-store",
   "version": "0.0.1",
-  "description": "time store api",
+  "description": "mosca publish plugin storing time series data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
