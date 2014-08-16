@@ -1,6 +1,6 @@
 {
   "name": "ts-store",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mosca publish plugin storing time series data",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "Jens-Ole Graulund <jensole@graulund.net>",
   "license": "ISC",
   "dependencies": {
-    "lru-cache": "^2.5.0"
+    "lru-cache": "^2.5.0",
+    "moment": "^2.8.1"
   }
 }
