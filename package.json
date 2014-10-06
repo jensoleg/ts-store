@@ -1,6 +1,6 @@
 {
   "name": "ts-store",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "mosca publish plugin storing time series data",
   "main": "index.js",
   "scripts": {
